@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/classicbot
+cd $HOME/sinline
 
 install() {
 	    cd tg
